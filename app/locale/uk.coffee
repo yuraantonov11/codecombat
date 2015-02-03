@@ -382,7 +382,7 @@ module.exports = nativeDescription: "Українська", englishDescription: 
   subscribe:
     subscribe_title: "Взяти абонемент"
     unsubscribe: "Скасувати абонемент"
-#    confirm_unsubscribe: "Confirm Unsubscribe"
+    confirm_unsubscribe: "Підтвердити відписку"
 #    never_mind: "Never Mind, I Still Love You"
 #    thank_you_months_prefix: "Thank you for supporting us these last"
 #    thank_you_months_suffix: "months."
@@ -751,7 +751,7 @@ module.exports = nativeDescription: "Українська", englishDescription: 
 
   contribute:
     page_title: "Співпраця"
-#    intro_blurb: "CodeCombat is 100% open source! Hundreds of dedicated players have helped us build the game into what it is today. Join us and write the next chapter in CodeCombat's quest to teach the world to code!"
+    intro_blurb: "CodeCombat - це 100% відкритий вихідний код! Сотні відданих гравців допомогли нам побудувати гру, якою вона є сьогодні. Приєднуйтесь до нас і напишіть нову главу в пошуках CodeCombat щоб навчити світ програмуванню!"
     alert_account_message_intro: "Привіт!"
     alert_account_message: "Щоб підписатися на email'и класу, Ви спершу маєте увійти."
     archmage_introduction: "Однією з найкращих частин створення ігор є те, що вони синтезують так багато різноманітних речей. Графіка, звук, з'єднання з мережею у реальному часі, соціальні мережі, і, звичайно, багато з найбільш поширених аспектів програмування, від управління низькорівневими базами даних і адміністративної підтримки сервера до користувацького зовнішнього вигляду та побудови інтерфейсу. Тут є ще багато до виконання, і якщо Ви досвідчений програміст із пристрасним бажанням зануритися у нетрі CodeCombat, цей розділ скоріше за все для Вас. Ми з радістю приймемо Вашу допомогу у побудові найкращої з усіх гри для програмування."
